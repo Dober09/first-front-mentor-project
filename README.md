@@ -1,2 +1,5 @@
 # first-front-mentor-project
-This is  a statics
+--
+## About 
+ 
+ this is an article preview component
